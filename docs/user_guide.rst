@@ -8,7 +8,6 @@ User guide
    frontend_api
    config
    networks
-   spa
    advanced
    backend_api
    changelog
